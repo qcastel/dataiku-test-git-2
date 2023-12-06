@@ -1,0 +1,30 @@
+{
+  "pages": [
+    {
+      "id": "2UcSvPN",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false,
+      "enableCrossFilters": true
+    }
+  ],
+  "owner": "admin",
+  "listed": true,
+  "name": "project-master\u0027s default dashboard",
+  "showGrid": true,
+  "reloadWhenEventReceived": false,
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "admin"
+    },
+    "lastModifiedOn": 1701856186055,
+    "extendedProperties": {}
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
