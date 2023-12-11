@@ -138,8 +138,9 @@
     },
     "dkuProperties": []
   },
-  "name": "project-master",
+  "name": "project-master-test",
   "projectStatus": "test",
+  "imgPattern": 6,
   "metrics": {
     "probes": [],
     "engineConfig": {
