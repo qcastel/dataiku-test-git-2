@@ -68,7 +68,9 @@
     "lastModifiedOn": 1701856319016,
     "extendedProperties": {}
   },
-  "tags": [],
+  "tags": [
+    "testestess"
+  ],
   "params": {
     "uploadConnection": "Default (in DSS data dir.)",
     "notReadyIfEmpty": false,
