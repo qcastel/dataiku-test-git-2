@@ -2,14 +2,7 @@
   "type": "custom_python",
   "name": "teste",
   "active": false,
-  "creationTag": {
-    "versionNumber": 0,
-    "lastModifiedBy": {
-      "login": "admin"
-    },
-    "lastModifiedOn": 1711547939853,
-    "extendedProperties": {}
-  },
+  "runAsUser": "admin",
   "checklists": {
     "checklists": []
   },
