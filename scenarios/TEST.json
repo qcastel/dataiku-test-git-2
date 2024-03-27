@@ -1,5 +1,5 @@
 {
-  "type": "step_based",
+  "tyeepe": "step_based",
   "name": "test",
   "active": false,
   "runAsUser": "alice",
