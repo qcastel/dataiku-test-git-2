@@ -1,5 +1,5 @@
 {
-  "tyeeepe": "STANDARD",
+  "type": "STANDARD",
   "hasLegacyBackendURL": false,
   "params": {
     "backendEnabled": true,
@@ -14,6 +14,7 @@
       "jquery",
       "dataiku"
     ],
+    "runAs": "admin",
     "infra": {
       "containerSelection": {
         "containerMode": "INHERIT"
