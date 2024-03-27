@@ -1,8 +1,8 @@
 {
-  "tyeepe": "step_based",
+  "type": "step_based",
   "name": "test",
   "active": false,
-  "runAsUser": "alice",
+  "runAsUser": "admin",
   "checklists": {
     "checklists": []
   },
