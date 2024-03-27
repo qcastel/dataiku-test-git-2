@@ -1,6 +1,6 @@
 {
-  "type": "step_based",
-  "name": "test",
+  "type": "custom_python",
+  "name": "teste",
   "active": false,
   "runAsUser": "admin",
   "checklists": {
@@ -15,7 +15,9 @@
   "triggers": [],
   "reporters": [],
   "params": {
-    "steps": []
+    "envSelection": {
+      "envMode": "INHERIT"
+    }
   },
   "automationLocal": false,
   "customFields": {}
