@@ -64,7 +64,14 @@
       "items": [
         {
           "ref": "part_00000_8b54be50_3d63_45ff_b596_45c245025649_c000snappy",
-          "deps": []
+          "deps": [
+            {
+              "idim": "date",
+              "func": "all_available",
+              "params": {},
+              "expandVariables": false
+            }
+          ]
         }
       ]
     }
