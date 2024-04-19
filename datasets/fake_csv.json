@@ -70,7 +70,6 @@
   },
   "tags": [],
   "params": {
-    "uploadBoxId": "37db4bcabccb349604d77f1c90d6a313afd1620aadbcd0da55d87d99e572eaf9",
     "uploadConnection": "Default (in DSS data dir.)",
     "notReadyIfEmpty": false,
     "filesSelectionRules": {
