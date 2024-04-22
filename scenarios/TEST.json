@@ -2,7 +2,7 @@
   "type": "step_based",
   "name": "test",
   "active": false,
-  "runAsUser": "bob",
+  "runAsUser": "admin",
   "checklists": {
     "checklists": []
   },
