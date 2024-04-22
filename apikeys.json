@@ -1,0 +1,27 @@
+[
+  {
+    "execSQLLike": false,
+    "localDatasets": [],
+    "projectPrivileges": {
+      "admin": false,
+      "readProjectContent": false,
+      "writeProjectContent": false,
+      "exportDatasetsData": false,
+      "readDashboards": false,
+      "writeDashboards": false,
+      "moderateDashboards": false,
+      "publishToDataCollections": false,
+      "shareToWorkspaces": false,
+      "runScenarios": false,
+      "manageDashboardAuthorizations": false,
+      "manageExposedElements": false,
+      "manageAdditionalDashboardUsers": false,
+      "executeApp": false
+    },
+    "onBehalf": "VPfNgyg",
+    "id": "GERvZ3mOKfHYsJUT",
+    "key": "Fef9BpZmL1OKdSvjutqfW1oUC8RGCmwi",
+    "label": "Key for Web app test(VPfNgyg)",
+    "createdOn": 1713773377181
+  }
+]
