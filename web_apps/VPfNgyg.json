@@ -2,7 +2,7 @@
   "type": "STANDARD",
   "hasLegacyBackendURL": false,
   "params": {
-    "backendEnabled": false,
+    "backendEnabled": true,
     "enableJavascriptModules": false,
     "autoStartBackend": false,
     "hideJSSecurityPanel": false,
@@ -14,6 +14,7 @@
       "jquery",
       "dataiku"
     ],
+    "runAs": "bob",
     "infra": {
       "containerSelection": {
         "containerMode": "INHERIT"
