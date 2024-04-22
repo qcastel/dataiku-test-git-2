@@ -14,7 +14,7 @@
       "jquery",
       "dataiku"
     ],
-    "runAs": "admin",
+    "runAs": "bob",
     "infra": {
       "containerSelection": {
         "containerMode": "INHERIT"
