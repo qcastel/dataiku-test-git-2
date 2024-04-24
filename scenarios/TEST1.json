@@ -2,7 +2,6 @@
   "type": "step_based",
   "name": "test1",
   "active": false,
-  "runAsUser": "alice",
   "checklists": {
     "checklists": []
   },
