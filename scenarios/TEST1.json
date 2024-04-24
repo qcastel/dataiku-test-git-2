@@ -2,16 +2,9 @@
   "type": "step_based",
   "name": "test1",
   "active": false,
+  "runAsUser": "alice",
   "checklists": {
     "checklists": []
-  },
-  "versionTag": {
-    "versionNumber": 0,
-    "lastModifiedBy": {
-      "login": "admin"
-    },
-    "lastModifiedOn": 1713866852414,
-    "extendedProperties": {}
   },
   "delayedTriggersBehavior": {
     "delayWhileRunning": true,
