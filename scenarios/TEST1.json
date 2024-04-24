@@ -10,6 +10,14 @@
     "squashDelayedTriggers": true,
     "suppressTriggersWhileRunning": true
   },
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "alice"
+    },
+    "lastModifiedOn": 1713866852414,
+    "extendedProperties": {}
+  },
   "tags": [],
   "triggers": [],
   "reporters": [],
