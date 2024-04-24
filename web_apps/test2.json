@@ -14,7 +14,7 @@
       "jquery",
       "dataiku"
     ],
-    "runAs": "admin",
+    "runAs": "alice",
     "infra": {
       "containerSelection": {
         "containerMode": "INHERIT"
