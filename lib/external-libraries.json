@@ -1,7 +1,15 @@
 {
-  "gitReferences": {},
+  "gitReferences": {
+    "testA": {
+      "remote": "e:AES:X2:wnllpOf8JXEy8vLebV1hQ/8qDGeCU6LaAjLoHeUSPir4IvwiNYETGh9Sm2YlgpksHRlAe20G610nzuXaUqUkPKmcRgFkxbfqKbt8bDgtE7sGMMRYNoN3h7+pz+zZuRv41Qsh8jawfv386jPPoICueWAAFPhgAnV2Xh3nWOQW3SKL6HQfju7mWC64c93ae3C62tY\u003d",
+      "checkout": "refs/heads/branchA",
+      "remotePath": "",
+      "isDirty": false
+    }
+  },
   "pythonPath": [
-    "python"
+    "python",
+    "testA"
   ],
   "rsrcPath": [
     "R"
