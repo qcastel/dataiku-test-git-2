@@ -1,7 +1,7 @@
 {
   "gitReferences": {
     "testA": {
-      "remote": "git@github.com:qcastel/dataiku-test-git-2.git",
+      "remote": "e:AES:X2:agusDqcP/3wNdTefjPNzyY0dZXbkokRrtP4GmfMF91yZldQgW3oyju3Ic08mFlzmXCnsrBaKq8wUbqDPNNoQ0etv4vYfXQK5ngyq0wzWqSZXT+H9ZRhCv+j2g59JrTJLnlDSSYmzDyudrbZ1013FpTso/SQ1VSpbpW/1Q9bEiEzyJ2zb25/A4r8cvaAGRS238f8\u003d",
       "checkout": "refs/heads/branchA",
       "remotePath": "",
       "lastHash": "c8f58ca619f89f51cc22693aa64628feceb0c339",
@@ -9,11 +9,18 @@
       "resolvedFiles": [],
       "faultyHash": "",
       "isDirty": false
+    },
+    "testB": {
+      "remote": "e:AES:X2:NakDQjEs29Tb/KH3qoqis0m+d/CjRHKsNIiIxgCX/HFe+ZcTRs+SVUgAzC/0c4W3b+hm4/XdF4Losn23M1wo4+XojwScV8z9wKlP6QudvGi0QZo1m/rW6/fe7ZWz33NPANZJr0GMkhEEppNhbPfzucHyiVJJaYzcvDYB652CDWBWxkth1FAYAJ1im9zcjpf+7mo\u003d",
+      "checkout": "refs/heads/branchA",
+      "remotePath": "",
+      "isDirty": false
     }
   },
   "pythonPath": [
     "python",
-    "testA"
+    "testA",
+    "testB"
   ],
   "rsrcPath": [
     "R"
