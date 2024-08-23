@@ -1,9 +1,13 @@
 {
   "gitReferences": {
     "testA": {
-      "remote": "e:AES:X2:wnllpOf8JXEy8vLebV1hQ/8qDGeCU6LaAjLoHeUSPir4IvwiNYETGh9Sm2YlgpksHRlAe20G610nzuXaUqUkPKmcRgFkxbfqKbt8bDgtE7sGMMRYNoN3h7+pz+zZuRv41Qsh8jawfv386jPPoICueWAAFPhgAnV2Xh3nWOQW3SKL6HQfju7mWC64c93ae3C62tY\u003d",
+      "remote": "e:AES:X2:Zcx/mewU7BMd40EftnyVwXCk6kyZQSt0HSJ7hufXfbO3CYxjHaltc3/kjA+a2INmWI4bN5ysAZQZCef542gMFz5VB2zU9/lxupcZR93EvLagcvRJ0fvDcTeItBXOtw38Q9xrhSIc4VV3mRzRwPCpCO3uMVDJAPdIUnf1HLUchKx37KkbI+Us1EMGbLFyQZkX/zk\u003d",
       "checkout": "refs/heads/branchA",
       "remotePath": "",
+      "lastHash": "c8f58ca619f89f51cc22693aa64628feceb0c339",
+      "conflictingFiles": [],
+      "resolvedFiles": [],
+      "faultyHash": "",
       "isDirty": false
     }
   },
