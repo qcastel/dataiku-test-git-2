@@ -1,7 +1,7 @@
 {
   "gitReferences": {
     "testA": {
-      "remote": "e:AES:X2:Zcx/mewU7BMd40EftnyVwXCk6kyZQSt0HSJ7hufXfbO3CYxjHaltc3/kjA+a2INmWI4bN5ysAZQZCef542gMFz5VB2zU9/lxupcZR93EvLagcvRJ0fvDcTeItBXOtw38Q9xrhSIc4VV3mRzRwPCpCO3uMVDJAPdIUnf1HLUchKx37KkbI+Us1EMGbLFyQZkX/zk\u003d",
+      "remote": "git@github.com:qcastel/dataiku-test-git-2.git",
       "checkout": "refs/heads/branchA",
       "remotePath": "",
       "lastHash": "c8f58ca619f89f51cc22693aa64628feceb0c339",
