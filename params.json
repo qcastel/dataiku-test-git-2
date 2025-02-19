@@ -26,7 +26,6 @@
       "zonesManualPositioning": false
     },
     "gitCommitMode": "AUTO",
-    "useRemoteGit": true,
     "disableAutomaticTriggers": false,
     "integrations": {
       "integrations": []
@@ -142,7 +141,6 @@
     "dkuProperties": []
   },
   "name": "test",
-  "projectStatus": "Sandbox",
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -206,7 +204,9 @@
     "lastModifiedOn": 1739956106700
   },
   "shortDesc": "The project *test* was created by Administrator on Feb 19th 2025",
-  "tags": [],
+  "tags": [
+    "imported"
+  ],
   "customFields": {},
   "checklists": {
     "checklists": [
