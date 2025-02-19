@@ -5,7 +5,11 @@
       "checkout": "refs/heads/branchAeeee",
       "remotePath": "",
       "remoteLogin": "qcastel",
-      "remotePassword": "e:AES:X2:iaNYuN2MVlT1W9wrAWPC+w7NSbQSllvFiPRVjtXwmgVDgyzwHlO56S5uvWbwN/VwUb+nqrVTLD4x+B5XuzbZBfUf98iiUOO53ggbI0fHSnebOdNdE9xqFg\u003d\u003d",
+      "remotePassword": "e:AES:X2:wHlqArwW12GuANN2IZ+UjlPCukVDfcsk720A4+QGoufQf59OGrZKMrXTqnzTEFE+uIyi4Z7Qb/Gj0GcUUJBQyXqIGQ0MsrgxQ1jg9FIWLRSc4Wns6/XsUQ\u003d\u003d",
+      "lastHash": "c8f58ca619f89f51cc22693aa64628feceb0c339",
+      "conflictingFiles": [],
+      "resolvedFiles": [],
+      "faultyHash": "",
       "isDirty": false
     }
   },
