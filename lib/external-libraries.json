@@ -1,7 +1,17 @@
 {
-  "gitReferences": {},
+  "gitReferences": {
+    "test": {
+      "remote": "https://github.com/qcastel/dataiku-test-git-2.git",
+      "checkout": "refs/heads/branchAeeee",
+      "remotePath": "",
+      "remoteLogin": "qcastel",
+      "remotePassword": "e:AES:X2:iaNYuN2MVlT1W9wrAWPC+w7NSbQSllvFiPRVjtXwmgVDgyzwHlO56S5uvWbwN/VwUb+nqrVTLD4x+B5XuzbZBfUf98iiUOO53ggbI0fHSnebOdNdE9xqFg\u003d\u003d",
+      "isDirty": false
+    }
+  },
   "pythonPath": [
-    "python"
+    "python",
+    "test"
   ],
   "rsrcPath": [
     "R"
