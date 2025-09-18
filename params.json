@@ -166,6 +166,7 @@
   },
   "name": "gitalteration",
   "projectStatus": "Sandbox",
+  "imgPattern": 2,
   "metrics": {
     "probes": [],
     "engineConfig": {
@@ -229,7 +230,10 @@
     "lastModifiedOn": 1758196862373
   },
   "shortDesc": "The project *gitalteration* was created by Administrator on Sep 18th 2025",
-  "tags": [],
+  "tags": [
+    "test",
+    "downloads"
+  ],
   "customFields": {},
   "checklists": {
     "checklists": [
