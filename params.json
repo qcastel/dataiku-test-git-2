@@ -24,10 +24,10 @@
   "permissions": [
     {
       "group": "data_team",
-      "admin": false,
+      "admin": true,
       "editPermissions": true,
       "readProjectContent": true,
-      "writeProjectContent": false,
+      "writeProjectContent": true,
       "exportDatasetsData": true,
       "readDashboards": false,
       "writeDashboards": false,
