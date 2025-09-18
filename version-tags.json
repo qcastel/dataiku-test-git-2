@@ -1,0 +1,20 @@
+{
+  "tags": {
+    "ARTICLE.1": {
+      "versionNumber": 4,
+      "lastModifiedBy": {
+        "login": "admin"
+      },
+      "lastModifiedOn": 1727377875553,
+      "extendedProperties": {}
+    },
+    "PROJECT.DKU_TSHIRTS": {
+      "versionNumber": 30,
+      "lastModifiedBy": {
+        "login": "admin"
+      },
+      "lastModifiedOn": 1727377891106,
+      "extendedProperties": {}
+    }
+  }
+}
