@@ -2,13 +2,7 @@
   "type": "custom_python",
   "name": "testset",
   "active": false,
-  "creationTag": {
-    "versionNumber": 0,
-    "lastModifiedBy": {
-      "login": "admin"
-    },
-    "lastModifiedOn": 1781774097890
-  },
+  "runAsUser": "bob",
   "checklists": {
     "checklists": []
   },
