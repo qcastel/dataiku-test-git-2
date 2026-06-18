@@ -2,7 +2,7 @@
   "type": "custom_python",
   "name": "testset",
   "active": false,
-  "runAsUser": "admin",
+  "runAsUser": "bob",
   "checklists": {
     "checklists": []
   },
