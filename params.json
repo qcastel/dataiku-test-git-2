@@ -14,7 +14,7 @@
   "permissions": [
     {
       "user": "alice",
-      "admin": true,
+      "admin": false,
       "editPermissions": true,
       "readProjectContent": true,
       "writeProjectContent": true,
